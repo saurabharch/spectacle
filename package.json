@@ -55,7 +55,7 @@
   "dependencies": {
     "@types/styled-components": "^5.1.15",
     "@types/styled-system": "^5.1.4",
-    "broadcast-channel": "^3.2.0",
+    "broadcast-channel": "^5.3.0",
     "broadcastchannel-polyfill": "^1.0.0",
     "dedent": "^0.7.0",
     "history": "^4.9.0",
